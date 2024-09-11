@@ -34,7 +34,7 @@
         </div>
     </nav>
     <div class="d-flex justify-content-center align-items-center">
-        <div class="container p-5 rounded-5 text-secondary" style="background-color: #ffefe1;">
+        <div class="container p-5 rounded-5 text-secondary" style="background-color: #ffd9b8;">
         <div class="h4 mb-4">Registro de Cliente Recurrente</div>
         <form action="#" method="post">
             <div class="row mb-4">

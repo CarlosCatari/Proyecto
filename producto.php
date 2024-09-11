@@ -24,8 +24,8 @@
             </div>
         </div>
     </nav>
-        <div class="container d-flex p-4" style="background-color: #ffefe1;">
-            <div class="col-6 p-2" style="border:solid #ff7f11;">
+        <div class="container d-flex p-4" style="background-color: #ffd9b8;">
+            <div class="col-6 p-2" style="border:solid #ff7f11; background-color: #949494;">
                 <label for="formFileLg" class="form-label">Imagen de Producto</label>
                 <input class="form-control form-control-lg" id="formFileLg" type="file">
             </div>
@@ -42,7 +42,7 @@
             </div>
         </div>
 
-        <div class="container d-flex mt-4" style="background-color: #ffefe1;">
+        <div class="container d-flex mt-4" style="background-color: #ffd9b8;">
             <div class="col-6 p-3 m-2">
                 <div class="mb-2"
                     <label for="categoria" class="form-label">Categoria:</label>
